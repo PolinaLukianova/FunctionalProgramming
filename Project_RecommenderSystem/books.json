@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "year": 1951,
+    "genre": "Psychohistory",
+    "description": "One of the great masterworks of science fiction, the Foundation novels of Isaac Asimov are unsurpassed for their unique blend of nonstop action, daring ideas, and extensive world-building. \r\n\r\nThe sto"
+  },
+  {
+    "title": "Ficciones",
+    "author": "Jorge Luis Borges",
+    "year": 1945,
+    "genre": "Anachronisms",
+    "description": "A collection of his short stories in which Borges often uses the labyrinth as a literary device to expound his ideas on all aspects of human life and endeavor.\r\n\r\n\r\n----------\r\nContains:\r\n[Tlön, Uqbar"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "year": 1897,
+    "genre": "English literature",
+    "description": "Na história, um casal e seus amigos são atormentados por Conde Drácula, uma entidade sobrenatural e hematófoga que, presa em uma maldição contagiosa, pretende se mudar de seu recluso castelo na Transi"
+  },
+  {
+    "title": "The Mysterious Affair at Styles",
+    "author": "Agatha Christie",
+    "year": 1920,
+    "genre": "Fiction",
+    "description": "Set in the summer of 1917 in an Essex country estate, the story follows the war-wounded Captain Arthur Hastings to the Styles St. Mary manor of his friend John Cavendish. The Cavendish household is wr"
+  },
+  {
+    "title": "Beloved",
+    "author": "Toni Morrison, MorrisonToni, Toni Morrison",
+    "year": 1987,
+    "genre": "African American History",
+    "description": "Toni Morrison--author of Song of Solomon and Tar Baby--is a writer of remarkable powers: her novels, brilliantly acclaimed for their passion, their dazzling language and their lyric and emotional forc"
+  },
+  {
+    "title": "The Last Man",
+    "author": "Mary Shelley",
+    "year": 1826,
+    "genre": "Fiction",
+    "description": "Mary Shelley, the author of [*Frankenstein*][1], wrote the apocalyptic novel The Last Man in 1826. Its first person narrative tells the story of our world standing at the end of the twenty-first centu"
+  },
+  {
+    "title": "The Time Machine",
+    "author": "H. G. Wells",
+    "year": 1895,
+    "genre": "Self-experimentation in medicine in fiction",
+    "description": "The Time Traveller, a dreamer obsessed with traveling through time, builds himself a time machine and, much to his surprise, travels over 800,000 years into the future. He lands in the year 802701: th"
+  },
+  {
+    "title": "Herland",
+    "author": "Charlotte Perkins Gilman",
+    "year": 1915,
+    "genre": "Utopias",
+    "description": "On the eve of WWI, three American male explorers stumble onto an all-female society somewhere in the distant reaches of the earth. Unable to believe their eyes, they promptly set out to find some men,"
+  },
+  {
+    "title": "The Invisible Man",
+    "author": "H. G. Wells",
+    "year": null,
+    "genre": "Ciencia-ficción",
+    "description": "This book is the story of Griffin, a scientist who creates a serum to render himself invisible, and his descent into madness that follows."
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "year": 1965,
+    "genre": "Dune (Imaginary place)",
+    "description": "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the \"spice\" melange, a dr"
+  },
+  {
+    "title": "Мы",
+    "author": "Евгений Иванович Замятин",
+    "year": 1924,
+    "genre": "Literature: Texts",
+    "description": "Wikipedia\r\n\r\nWe is set in the future. D-503, a spacecraft engineer, lives in the One State, an urban nation constructed almost entirely of glass, which assists mass surveillance. The structure of the "
+  },
+  {
+    "title": "A Room of One's Own",
+    "author": "Virginia Woolf",
+    "year": 1929,
+    "genre": "Authorship",
+    "description": "A Room of One's Own is an extended essay by Virginia Woolf. First published on 24 October 1929, the essay was based on a series of lectures she delivered at Newnham College and Girton College, two wom"
+  },
+  {
+    "title": "The Yellow Wallpaper",
+    "author": "Charlotte Perkins Gilman",
+    "year": 1892,
+    "genre": "hp lovecraft",
+    "description": "Specially printed limited edition release for the Miskatonic Literary Society."
+  },
+  {
+    "title": "The War of the Worlds",
+    "author": "H. G. Wells",
+    "year": null,
+    "genre": "Imaginary wars and battles",
+    "description": "The ultimate science fiction classic: for more than one hundred years, this compelling tale of the Martian invasion of Earth has enthralled readers with a combination of imagination and incisive comme"
+  },
+  {
+    "title": "Dubliners",
+    "author": "James Joyce",
+    "year": 1914,
+    "genre": "Daily Express",
+    "description": "James Joyce's disillusion with the publication of Dubliners in 1914 was the result of ten years battling with publishers, resisting their demands to remove swear words, real place names and much else,"
+  },
+  {
+    "title": "Kim",
+    "author": "Rudyard Kipling",
+    "year": 1901,
+    "genre": "Fiction",
+    "description": "Kim is Rudyard Kipling's story of an orphan born in colonial India and torn between love for his native India and the demands of Imperial loyalty to his Irish-English heritage and to the British Secre"
+  },
+  {
+    "title": "The Riddle of the Sands",
+    "author": "Erskine Childers",
+    "year": 1903,
+    "genre": "Great britain, fiction",
+    "description": "Childers's lone masterpiece, THE RIDDLE OF THE SANDS, considered the first modern spy thriller, is recognisable as the brilliant forerunner of the realism of Graham Greene and John le Carre. Its uniqu"
+  },
+  {
+    "title": "The blue castle",
+    "author": "Lucy Maud Montgomery",
+    "year": 1926,
+    "genre": "Juvenile fiction",
+    "description": "Valancy Stirling is 29, unmarried, and has never been in love. Living with her overbearing mother and meddlesome aunt, she finds her only consolation in the \"forbidden\" books of John Foster and her da"
+  },
+  {
+    "title": "The Scarlet Pimpernel",
+    "author": "Emma Orczy",
+    "year": 1900,
+    "genre": "Classic Literature",
+    "description": "The Scarlet Pimpernel (1905) is a play and adventure novel by Baroness Emmuska Orczy set during the Reign of Terror following the start of the French Revolution."
+  },
+  {
+    "title": "Lord Jim",
+    "author": "Joseph Conrad",
+    "year": 1900,
+    "genre": "Fiction",
+    "description": "This compact novel, completed in 1900, as with so many of the great novels of the time, is at its baseline a book of the sea. An English boy in a simple town has dreams bigger than the outdoors and em"
+  },
+  {
+    "title": "The Awakening",
+    "author": "Kate Chopin",
+    "year": 1899,
+    "genre": "Adultery",
+    "description": "The Awakening is a novel by Kate Chopin, first published in 1899. Set in New Orleans and on the Louisiana Gulf coast at the end of the 19th century, the plot centers on Edna Pontellier and her struggl"
+  },
+  {
+    "title": "Of Human Bondage",
+    "author": "William Somerset Maugham",
+    "year": 1915,
+    "genre": "People with disabilities, fiction",
+    "description": "Of Human Bondage is a moving exploration of loneliness, obsessive love, and a young man's search for meaning and direction in life. Written in the third person, it tells the story of Philip Carey, a s"
+  },
+  {
+    "title": "The Martian Chronicles",
+    "author": "Ray Bradbury",
+    "year": 1950,
+    "genre": "American Science fiction",
+    "description": "This is a collection of science fiction short stories, cleverly cobbled together to form a coherent and very readable novel about a future colonization of Mars. As the stories progress chronologically"
+  },
+  {
+    "title": "Shirley",
+    "author": "Charlotte Brontë",
+    "year": 1800,
+    "genre": "England, fiction",
+    "description": "<p><i>Shirley</i>, published in 1849, was <a href=\"https://standardebooks.org/ebooks/charlotte-bronte\">Charlotte Brontë’s</a> second novel after <i><a href=\"https://standardebooks.org/ebooks/charlotte"
+  },
+  {
+    "title": "Flatland",
+    "author": "Edwin Abbott Abbott",
+    "year": 1884,
+    "genre": "Fourth dimension",
+    "description": "Flatland: A Romance of Many Dimensions, though written in 1884, is still considered useful in thinking about multiple dimensions. It is also seen as a satirical depiction of Victorian society and its "
+  },
+  {
+    "title": "Ethan Frome",
+    "author": "Edith Wharton",
+    "year": 1910,
+    "genre": "Accident victims",
+    "description": "*Edith Wharton wrote Ethan Frome as a frame story — meaning that the prologue and epilogue constitute a \"frame\" around the main story*\r\n\r\n**How It All Goes Down**\r\nIt's winter. A nameless engineer is "
+  },
+  {
+    "title": "Persuasion",
+    "author": "Jane Austen",
+    "year": 1789,
+    "genre": "Fiction, Romance, Historical, Regency",
+    "description": "Persuasion tells the love story of Anne Elliot and Captain Frederick Wentworth, whose sister rents Miss Elliot's father's house, after the Napoleonic Wars come to an end. The story is set in 1814. The"
+  },
+  {
+    "title": "The Sign of Four",
+    "author": "Arthur Conan Doyle",
+    "year": 1889,
+    "genre": "Crime & Mystery",
+    "description": "The Sign of the Four (1890), also called The Sign of Four, is the second novel featuring Sherlock Holmes written by Sir Arthur Conan Doyle.\r\n\r\n\r\n----------\r\nAlso contained in:\r\n[Adventures of Sherlock"
+  },
+  {
+    "title": "Le roman du masque de fer",
+    "author": "Alexandre Dumas",
+    "year": 1600,
+    "genre": "History",
+    "description": "You are about to hear,\" said Aramis, \"an account which few could now give; for it refers to a secret which they buried with their dead....\" So begins the magnificent concluding story of the swashbuckl"
+  },
+  {
+    "title": "This Side of Paradise",
+    "author": "F. Scott Fitzgerald",
+    "year": 1920,
+    "genre": "Fiction",
+    "description": "This Side of Paradise, F. Scott Fitzgerald's romantic and witty first novel, was written when the author was only twenty-three years old. This semi-autobiographical story of the handsome, indulged, an"
+  },
+  {
+    "title": "The Adventures of Tom Sawyer",
+    "author": "Mark Twain",
+    "year": 1817,
+    "genre": "The Adventures of Tom Sawyer",
+    "description": "Mark Twain created the memorable characters Tom Sawyer and Huckleberry Finn drawing from the experiences of boys he grew up with in Missouri. Set by the Mississippi River in the 1840's, it follows the"
+  },
+  {
+    "title": "The First Men in the Moon",
+    "author": "H. G. Wells",
+    "year": 1900,
+    "genre": "Classic Literature",
+    "description": "When penniless businessman Mr Bedford retreats to the Kent coast to write a play, he meets by chance the brilliant Dr Cavor, an absent-minded scientist on the brink of developing a material that block"
+  },
+  {
+    "title": "The Great God Pan",
+    "author": "Arthur Machen",
+    "year": 1894,
+    "genre": "austin osman spare",
+    "description": "Arthur Machen's first book, THE GREAT GOD PAN, published in 1894, is still one of the greatest works of weird horror and decadence ever produced. Arthur Machen with his taste for the bizarre and macab"
+  },
+  {
+    "title": "The Sea Fairies",
+    "author": "L. Frank Baum",
+    "year": 1911,
+    "genre": "Children's stories",
+    "description": "This is a tale of life beneath the sea, of mermaids and sea serpents and other strange inhabitants of the ocean depths. A little girl named Trot and Cap'n Bill, an old sailor, are invited by several m"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "year": 1953,
+    "genre": "Mechanical Hound",
+    "description": "Fahrenheit 451 is a 1953 dystopian novel by American writer Ray Bradbury. Often regarded as one of his best works, the novel presents a future American society where books are outlawed and \"firemen\" b"
+  },
+  {
+    "title": "The Lost World",
+    "author": "Arthur Conan Doyle",
+    "year": 1900,
+    "genre": "Adventure stories",
+    "description": "Journalist Ed Malone is looking for an adventure, and that's exactly what he finds when he meets the eccentric Professor Challenger - an adventure that leads Malone and his three companions deep into "
+  },
+  {
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "year": 1850,
+    "genre": "Fiction",
+    "description": "A stark and allegorical tale of adultery, guilt, and social repression in Puritan New England, The Scarlet Letter is a foundational work of American literature. Nathaniel Hawthorne's exploration of th"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "year": 1890,
+    "genre": "British and irish fiction (fictional works by one author)",
+    "description": "**The Picture of Dorian Gray** is a philosophical novel by Irish writer Oscar Wilde. A shorter novella-length version was published in the July 1890 issue of the American periodical *Lippincott’s Mont"
+  },
+  {
+    "title": "Lilith",
+    "author": "George MacDonald",
+    "year": 1895,
+    "genre": "Fiction, romance, fantasy",
+    "description": "Lilith, written by the father of fantasy literature, George MacDonald, was first published in 1895. Its importance was recognized in its later revival in paperback by Ballantine Books as the fifth vol"
+  },
+  {
+    "title": "Sons and Lovers",
+    "author": "D. H. Lawrence",
+    "year": 1913,
+    "genre": "Fiction",
+    "description": "<p><i>Sons and Lovers</i>, a story of working-class England, is <a href=\"https://standardebooks.org/ebooks/d-h-lawrence\"><abbr>D. H.</abbr> Lawrence’s</a> third novel. It went through various drafts, "
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "year": 1846,
+    "genre": "form:novel",
+    "description": "Wuthering Heights is an 1847 novel by Emily Brontë, initially published under the pseudonym Ellis Bell. It concerns two families of the landed gentry living on the West Yorkshire moors, the Earnshaws "
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes [12 stories]",
+    "author": "Arthur Conan Doyle",
+    "year": 1892,
+    "genre": "Classic Literature",
+    "description": "The Adventures of Sherlock Holmes is a collection of twelve short stories by Arthur Conan Doyle, first published on 14 October 1892. It contains the earliest short stories featuring the consulting det"
+  },
+  {
+    "title": "The Good Earth",
+    "author": "Pearl S. Buck, Nick Bertozzi, Ruth Goode, Donald F. Roden, Ernst Simon, Stephen Colbourn",
+    "year": 1931,
+    "genre": "China, fiction",
+    "description": "This tells the poignant tale of a Chinese farmer and his family in old agrarian China. The humble Wang Lung glories in the soil he works, nurturing the land as it nurtures him and his family. Nearby, "
+  },
+  {
+    "title": "The Book of Dragons",
+    "author": "Edith Nesbit",
+    "year": 1973,
+    "genre": "Juvenile fiction",
+    "description": "Eight madcap tales of unpredictable dragons — including one made of ice, another that takes refuge in the General Post Office, and a fire-breathing monster that flies out of an enchanted book and eats"
+  },
+  {
+    "title": "Sense and Sensibility",
+    "author": "Jane Austen",
+    "year": 1811,
+    "genre": "Fiction, Romance, Historical, Regency",
+    "description": "When Mr. Dashwood dies, he must leave the bulk of his estate to the son by his first marriage, which leaves his second wife and three daughters (Elinor, Marianne, and Margaret) in straitened circumsta"
+  },
+  {
+    "title": "My Ántonia",
+    "author": "Willa Cather",
+    "year": 1818,
+    "genre": "Literature",
+    "description": "My Antonia, first published 1918, is one of Willa Cather's greatest works. It is the last novel in the Prairie trilogy, preceded by O Pioneers! and The Song of the Lark.My Antonia tells the stories of"
+  },
+  {
+    "title": "When the Sleeper Awakes",
+    "author": "H. G. Wells",
+    "year": 1899,
+    "genre": "Fiction",
+    "description": "A troubled insomniac in 1890s England falls suddenly into a sleep-like trance, from which he does not awake for over two hundred years. During his centuries of slumber, however, investments are made t"
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "year": 1800,
+    "genre": "British",
+    "description": "A Tale of Two Cities is a historical novel published in 1859 by Charles Dickens, set in London and Paris before and during the French Revolution. The novel tells the story of the French Doctor Manette"
+  },
+  {
+    "title": "Poetics",
+    "author": "Aristotle",
+    "year": 1536,
+    "genre": "Early works to 1800",
+    "description": "One of the first books written on what is now called aesthetics. Although parts are lost (e.g., comedy), it has been very influential in western thought, such as the part on tragedy."
+  },
+  {
+    "title": "Anthem",
+    "author": "Ayn Rand",
+    "year": 1936,
+    "genre": "Fiction",
+    "description": "Anthem is a tale of a future dark age of the great “we” – a world that deprives individuals of name, independence, and values.\r\n\r\nHe lived in the dark ages of the future. In a loveless world he dared "
+  },
+  {
+    "title": "Daddy-Long-Legs",
+    "author": "Jean Webster",
+    "year": 1912,
+    "genre": "Philanthropists",
+    "description": "From poor lonely orphan to sophisticated young woman — Jerusha Abbott can hardly believe her good fortune.\r\n\r\nAll her life Jerusha has lived at the drearyJohn Grier Home for orphans. Now that she's se"
+  },
+  {
+    "title": "The Alchemist, 1612",
+    "author": "Ben Jonson",
+    "year": 1612,
+    "genre": "British and irish drama (dramatic works by one author)",
+    "description": "Samuel Taylor Coleridge said of Ben Jonson's The Alchemist that it had one out of the three most perfect plots in literature. This play, with its sharp portrayal of human folly, is considered by many "
+  },
+  {
+    "title": "The Napoleon of Notting Hill",
+    "author": "Gilbert Keith Chesterton",
+    "year": 1904,
+    "genre": "Fiction",
+    "description": "A witty and surreal novel of the future.\r\n\r\nIn a rather dull stuck-in-a-rut future, a prankster chosen randomly to be King of England revives the old ways and inadvertently arouses romantic patriotism"
+  },
+  {
+    "title": "White Fang",
+    "author": "Jack London",
+    "year": 1905,
+    "genre": "Gold discoveries",
+    "description": "The story of a wolf/dog cross, who is raised by Indians, and becomes a deadly fighter."
+  },
+  {
+    "title": "Emma",
+    "author": "Jane Austen",
+    "year": 1815,
+    "genre": "Social life and customs",
+    "description": "Emma, by Jane Austen, is a novel about youthful hubris and the perils of misconstrued romance. The novel was first published in December 1815. As in her other novels, Austen explores the concerns and "
+  },
+  {
+    "title": "The Secret Adversary",
+    "author": "Agatha Christie",
+    "year": 1922,
+    "genre": "Classic Literature",
+    "description": "Tommy Beresford and Prudence 'Tuppence' Cowley are young, in love… and flat broke. Just after Great War, there are few jobs available and the couple are desperately short of money. Restless for excite"
+  },
+  {
+    "title": "Eva Luna",
+    "author": "Isabel Allende",
+    "year": 1987,
+    "genre": "Spanish language books",
+    "description": "The history of a woman born poor, orphaned early, and who eventually rose to a position of unique influence."
+  },
+  {
+    "title": "The Color Purple",
+    "author": "Alice Walker",
+    "year": 1976,
+    "genre": "Fiction & Literature",
+    "description": "The Color Purple is a 1982 epistolary novel by American author Alice Walker which won the 1983 Pulitzer Prize for Fiction and the National Book Award for Fiction.\r\n\r\nThe novel has been the frequent ta"
+  },
+  {
+    "title": "Анна Каренина",
+    "author": "Лев Толстой",
+    "year": 1876,
+    "genre": "Fiction",
+    "description": "Described by William Faulkner as the best novel ever written and by Fyodor Dostoevsky as “flawless,” Anna Karenina tells of the doomed love affair between the sensuous and rebellious Anna and the dash"
+  },
+  {
+    "title": "Frankenstein or The Modern Prometheus",
+    "author": "Mary Shelley",
+    "year": 1818,
+    "genre": "Frankenstein (Fictitious character)",
+    "description": "*Frankenstein; or, The Modern Prometheus* is an 1818 novel written by English author Mary Shelley. Frankenstein tells the story of Victor Frankenstein, a young scientist who creates a sapient creature"
+  },
+  {
+    "title": "The Mystery of the Blue Train",
+    "author": "Agatha Christie",
+    "year": 1928,
+    "genre": "Crimes against",
+    "description": "Bound for the Riviera, detective Hercule Poirot has boarded Le Train Bleu, an elegant, leisurely means of travel, free of intrigue. Then he meets Ruth Kettering. The American heiress bailing out of a "
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "genre": "Fiction, Romance, Historical, Regency",
+    "description": "Pride and Prejudice is an 1813 novel of manners written by Jane Austen. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about the reperc"
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "year": 1861,
+    "genre": "Authors",
+    "description": "Great Expectations is the thirteenth novel by Charles Dickens and his penultimate completed novel. It depicts the education of an orphan nicknamed Pip (the book is a bildungsroman; a coming-of-age sto"
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "year": 2008,
+    "genre": "severe poverty",
+    "description": "The Hunger Games is a 2008 dystopian novel by the American writer Suzanne Collins. It is written in the perspective of 16-year-old Katniss Everdeen, who lives in the future, post-apocalyptic nation of"
+  },
+  {
+    "title": "The Red Badge of Courage",
+    "author": "Stephen Crane",
+    "year": 1855,
+    "genre": "1783-1865",
+    "description": "The Red Badge of Courage is a war novel by American author Stephen Crane (1871–1900). Taking place during the American Civil War, the story is about a young private of the Union Army, Henry Fleming, w"
+  },
+  {
+    "title": "Robin Hood",
+    "author": "Howard Pyle",
+    "year": 1883,
+    "genre": "Children's fiction",
+    "description": "Recounts the legend of Robin Hood, who plundered the king's purse and poached his deer and whose generosity endeared him to the poor."
+  },
+  {
+    "title": "The King in Yellow",
+    "author": "Robert W. Chambers",
+    "year": 1895,
+    "genre": "Fiction",
+    "description": "An important early classic of fantasy/sci-fi.  [Main story:] The ill effects of a soul-destroying play, to read which brings doom.  A discovery that changes living flesh to stone.  The mad adherents o"
+  },
+  {
+    "title": "El túnel",
+    "author": "Ernesto Sabato",
+    "year": 1948,
+    "genre": "Spanish fiction",
+    "description": "Juan Pablo Castel is a tormented and insane painter who falls for Maria, a woman he meets at an art exhibition. She is married to a blind man -the subject of Sabato and Saramago's obsession- and has a"
+  },
+  {
+    "title": "Northern Lights",
+    "author": "Philip Pullman",
+    "year": 1995,
+    "genre": "Political theology",
+    "description": "In a landmark epic of fantasy and storytelling, Philip Pullman invites readers into a world as convincing and thoroughly realized as Narnia, Earthsea, or Redwall. Here lives an orphaned ward named Lyr"
+  },
+  {
+    "title": "A Study in Scarlet",
+    "author": "Arthur Conan Doyle",
+    "year": 1887,
+    "genre": "Action & Adventure Fiction",
+    "description": "A Study in Scarlet is an 1887 detective novel by British writer Arthur Conan Doyle. The story marks the first appearance of Sherlock Holmes and Dr. Watson, who would become the most famous detective d"
+  },
+  {
+    "title": "The Return of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "year": 1903,
+    "genre": "air guns",
+    "description": "The Return of Sherlock Holmes is a 1905 collection of 13 Sherlock Holmes stories, originally published in 1903–1904, by Arthur Conan Doyle. The stories were published in the Strand Magazine in Britain"
+  },
+  {
+    "title": "La casa de los espíritus",
+    "author": "Isabel Allende",
+    "year": 1982,
+    "genre": "Chilean literature",
+    "description": "Primera novela de Isabel Allende. *La casa de los espíritus* narra la saga de una poderosa familia de terratenientes latinoamericanos. El despótico patriarca Esteban Trueba ha construido, con mano de "
+  },
+  {
+    "title": "A Room with a View",
+    "author": "E. M. Forster",
+    "year": 1905,
+    "genre": "British",
+    "description": "Lucy has her rigid, middle-class life mapped out for her, until she visits Florence with her uptight cousin Charlotte, and finds her neatly ordered existence thrown off balance. Her eyes are opened by"
+  },
+  {
+    "title": "Nineteen Eighty-Four",
+    "author": "George Orwell",
+    "year": 1949,
+    "genre": "futurology",
+    "description": "Nineteen Eighty-Four: A Novel, often referred to as 1984, is a dystopian social science fiction novel by the English novelist George Orwell (the pen name of Eric Arthur Blair). It was published on 8 J"
+  },
+  {
+    "title": "Women in Love",
+    "author": "D. H. Lawrence",
+    "year": 1877,
+    "genre": "Romance",
+    "description": "Dark, but filled with bright genius, Women in Love is a prophetic masterpiece steeped in eroticism, filled with perceptions about sexual power and obsession that have proven to be timeless and true."
+  },
+  {
+    "title": "R.U.R. and The insect play",
+    "author": "Karel Čapek, Josef Čapek",
+    "year": 1920,
+    "genre": "Czech drama",
+    "description": "\"In 1920 Čapek wrote what was to become his most famous work, the play 'R.U.R. (Rossum's Universal Robots)', a meditation on the themes of humanity and subjugation that introduced the 'robot'. He was "
+  },
+  {
+    "title": "The House of the Seven Gables",
+    "author": "Nathaniel Hawthorne",
+    "year": 1851,
+    "genre": "Fiction",
+    "description": "In a sleepy little New England village stands a dark, weather-beaten, many-gabled house. This brooding mansion is haunted by a centuries-old curse that casts the shadow of ancestral sin upon the last "
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "year": 1862,
+    "genre": "Poor",
+    "description": "In this story of the trials of the peasant Jean Valjean--a man unjustly imprisoned, baffled by destiny, and hounded by his nemesis, the magnificently realized, ambiguously malevolent police detective "
+  },
+  {
+    "title": "The Witches",
+    "author": "Roald Dahl",
+    "year": 1983,
+    "genre": "Fiction",
+    "description": ""
+  },
+  {
+    "title": "Ordeal by Innocence",
+    "author": "Agatha Christie",
+    "year": 1958,
+    "genre": "Detectives",
+    "description": "Recovering from amnesia, Dr. Arthur Calgary discovers that he alone could have provided an alibi in a scandalous murder trial. It ended in the conviction of Jacko Argyle. The victim was Jacko's own mo"
+  },
+  {
+    "title": "A Princess of Mars",
+    "author": "Edgar Rice Burroughs",
+    "year": 1917,
+    "genre": "John Carter (Fictitious character)",
+    "description": "I am a very old man; how old I do not know. Possibly I am a hundred, possibly more; but I cannot tell because I have never aged as other men, nor do I remember any childhood. So far as I can recollect"
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini, Kh Khosseini",
+    "year": 2003,
+    "genre": "New York Times bestseller",
+    "description": "The unforgettable, heartbreaking story of the unlikely friendship between a wealthy boy and the son of his father’s servant, The Kite Runner is a beautifully crafted novel set in a country that is in "
+  },
+  {
+    "title": "La Poetica",
+    "author": "Aristotle",
+    "year": 1479,
+    "genre": "Metaphysics",
+    "description": ""
+  },
+  {
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "year": 1880,
+    "genre": "Fiction",
+    "description": "Traditionally considered a coming-of-age story, Treasure Island is an adventure tale known for its atmosphere, characters and action, and also as a wry commentary on the ambiguity of morality — as see"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "year": 1985,
+    "genre": "brothels",
+    "description": "The Handmaid's Tale is a dystopian novel by Canadian author Margaret Atwood, published in 1985. It is set in a near-future New England, in a strongly patriarchal, totalitarian theonomic state, known a"
+  },
+  {
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "year": 1926,
+    "genre": "Fiction, Historical",
+    "description": "Hemingway's profile of the Lost Generation captures life among the expatriates on Paris' Left Bank during the 1920s, the brutality of bullfighting in Spain, and the moral and spiritual dissolution of "
+  },
+  {
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "year": 1876,
+    "genre": "adventure and adventurers",
+    "description": "Adventures of Huckleberry Finn or as it is known in more recent editions, The Adventures of Huckleberry Finn, is a novel by American author Mark Twain, which was first published in the United Kingdom "
+  },
+  {
+    "title": "Twilight",
+    "author": "Stephenie Meyer",
+    "year": 2005,
+    "genre": "series:Luz_e_Escuridão",
+    "description": "About three things I was absolutely positive. First, Edward was a vampire. Second, there was a part of him -- and I didn't know how dominant that part might be -- that thirsted for my blood. And third"
+  },
+  {
+    "title": "Guess How Much I Love You",
+    "author": "Sam McBratney, Anita Jeram",
+    "year": 1994,
+    "genre": "Fiction",
+    "description": "Welcome the family classic with an elegant, refreshed cover — the quintessential picture book, just waiting to be shared.\r\n\r\nSometimes, when you love someone very, very much, you want to find a way of"
+  },
+  {
+    "title": "The Pickwick Papers",
+    "author": "Charles Dickens",
+    "year": 1800,
+    "genre": "Fiction",
+    "description": "Dickens’ first novel was originally written and published as a serial. It is a comedy relating the misadventures of the members of The Pickwick Club, whose main purpose is to discover and relate quain"
+  },
+  {
+    "title": "Matilda",
+    "author": "Roald Dahl",
+    "year": 1988,
+    "genre": "juvenile fiction",
+    "description": "No podemos resistirnos a Matilda y recomendar a su autor a los niños que no lo conozcan. Matilda debe poner orden en una escuela poco acogedora porque sus profesores no están a la altura de su profesi"
+  },
+  {
+    "title": "Bridge to Terabithia",
+    "author": "Katherine Paterson",
+    "year": 1972,
+    "genre": "Amistad",
+    "description": "The life of a ten-year-old boy in rural Virginia expands when he becomes friends with a newcomer who subsequently meets an untimely death trying to reach their hideaway, Terabithia, during a storm."
+  },
+  {
+    "title": "Memoirs of Fanny Hill",
+    "author": "John Cleland",
+    "year": 1749,
+    "genre": "Fiction",
+    "description": "Memoirs of Fanny Hill was written in debtor's prison in 1784 and was the first modern erotic novel in English. A young woman, Fanny Hill, is forced by poverty to go into service, but is tricked into b"
+  },
+  {
+    "title": "The Portrait of a Lady",
+    "author": "Henry James",
+    "year": 1881,
+    "genre": "Social life and customs",
+    "description": "Young American Isabel Archer charms European society, but falls prey to the machinations of a calculating older woman."
+  },
+  {
+    "title": "His Last Bow [8 stories]",
+    "author": "Arthur Conan Doyle",
+    "year": 1917,
+    "genre": "short stories",
+    "description": "The adventure of Wisteria lodge.--The adventure of the cardboard box.--The adventure of the red circle.--The adventure of the Bruce-Partington plans.--The adventure of the dying detective.--The disapp"
+  },
+  {
+    "title": "The Age of Innocence",
+    "author": "Edith Wharton",
+    "year": 1920,
+    "genre": "Fiction",
+    "description": "Edith Wharton's most famous novel, written immediately after the end of the First World War, is a brilliantly realized anatomy of New York society in the 1870s, the world in which she grew up, and fro"
+  },
+  {
+    "title": "The Call of the Wild",
+    "author": "Jack London",
+    "year": 1903,
+    "genre": "Gold discoveries",
+    "description": "As Buck, a mixed breed dog, is taken away from his home, instead of facing a feast for breakfast and the comforts of home, he faces the hardships of being a sled dog. Soon he lands in the wrong hands,"
+  },
+  {
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "year": 1961,
+    "genre": "Open Library Staff Picks",
+    "description": "*Catch-22* is like no other novel. It has its own rationale, its own extraordinary character. It moves back and forth from hilarity to horror. It is outrageously funny and strangely affecting. It is t"
+  },
+  {
+    "title": "The Tale of Peter Rabbit",
+    "author": "Beatrix Potter, Blackwell North America., Jean Little, David Hately, J. K. Jomkhwan, Lisa McCue",
+    "year": 1920,
+    "genre": "Rabbits, fiction",
+    "description": "One of the best known and loved children's stories is the story of naughty Peter Rabbit and his misadventures as he is chased around a garden."
+  },
+  {
+    "title": "A Passage to India",
+    "author": "E. M. Forster",
+    "year": 1924,
+    "genre": "Fiction",
+    "description": "When Adela Quested and her elderly companion Mrs Moore arrive in the Indian town of Chandrapore, they quickly feel trapped by its insular and prejudiced 'Anglo-Indian' community. Determined to escape "
+  }
+]
